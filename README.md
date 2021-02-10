@@ -12,6 +12,6 @@ Files included:
 1. SARSCoV2_v5.fa - fasta containing only the viral regions
 2. SARSCoV2_v5.gtf - gtf matching the viral fasta
 
-![schematic](https://github.com/ShalekLab/SARSCoV2-genome-reference/blob/main/Github_Genome_SARSCoV2_Schematic.pdf)
+![](https://github.com/ShalekLab/SARSCoV2-genome-reference/blob/main/Github_Genome_SARSCoV2_Schematic.png)
 
 Contact Carly Ziegler (cziegler@mit.edu), Jose Ordovas-Montanes (jose.ordovas-montanes@childrens.harvard.edu), or Alex Shalek (shalek@mit.edu) with any questions
