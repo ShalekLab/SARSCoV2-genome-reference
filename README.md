@@ -12,3 +12,7 @@ Files included:
 
 1. SARSCoV2_v5.fa - fasta containing only the viral regions
 2. SARSCoV2_v5.gtf - gtf matching the viral fasta
+
+
+
+Contact Carly Ziegler (cziegler@mit.edu), Jose Ordovas-Montanes (jose.ordovas-montanes@childrens.harvard.edu), or Alex Shalek (shalek@mit.edu) with any questions
